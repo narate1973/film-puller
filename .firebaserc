@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "film-lovr",
+    "film-lovr": "film-lovr"
+  },
+  "targets": {},
+  "etags": {}
+}
